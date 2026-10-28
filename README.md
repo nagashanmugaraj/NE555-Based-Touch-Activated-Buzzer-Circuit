@@ -23,12 +23,13 @@ Designed an NE555 timer-based buzzer circuit using KiCad EDA. This project cover
 ## PCB Design
 
 ### 2D PCB Layout
-![2D PCB Layout]
-<img width="984" height="845" alt="image" src="https://github.com/user-attachments/assets/4fc7d4cf-2540-49dc-9b92-6270dcdaaea5" />
+2D PCB Layout
+
+<img width="1233" height="847" alt="image" src="https://github.com/user-attachments/assets/8f1e95d2-d195-4543-b852-7f8181367969" />
 
 ### 3D PCB Visualization
-![3D PCB View](pcb/pcb_3d_view.png)
-
+3D PCB View
+<img width="984" height="845" alt="image" src="https://github.com/user-attachments/assets/4fc7d4cf-2540-49dc-9b92-6270dcdaaea5" />
 ## Key Features
 - NE555 timer-based circuit design
 - PCB component placement and routing
